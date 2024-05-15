@@ -19,3 +19,15 @@
 ## Clash for Android V2.5.12
 
 [点此下载](https://github.com/xiumuzdiao/Clash/releases/tag/CFA-2.5.12)
+
+# 订阅推荐
+
+## 免费订阅
+
+[V2rayshare](https://v2rayshare.com)
+
+[ClashNodeShare](https://clashnodeshare.github.io/)
+
+## 付费订阅
+
+[泡泡Dog](www.paopaodog.com)
