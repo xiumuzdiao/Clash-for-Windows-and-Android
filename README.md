@@ -2,6 +2,8 @@
 
 本文件备份源自网络以及Telegram
 
+![Clash for Windows 截图](https://github.com/xiumuzdiao/Clash/blob/main/image/Clash%20for%20Windows%20v0.20.39.png)
+
 ## Clash for Windows V0.20.39汉化版
 
 [点此下载](https://github.com/xiumuzdiao/Clash/releases/tag/CFW-V0.20.39_CN)
