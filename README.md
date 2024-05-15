@@ -1,6 +1,6 @@
 # Clash for Windows 与 Clash for Android 存档备份。
 
-本文件备份源自网络以及Telegram
+本文件备份源自[Z-Siqi](https://github.com/Z-Siqi)以及Telegram
 
 ![Clash for Windows 截图](https://github.com/xiumuzdiao/Clash/blob/main/image/Clash%20for%20Windows%20v0.20.39.png)
 
