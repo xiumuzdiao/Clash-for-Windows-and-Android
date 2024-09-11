@@ -28,6 +28,8 @@
 
 [ClashNodeShare](https://clashnodeshare.github.io/)
 
+[FreeClashNode](https://www.freeclashnode.com/)
+
 ## 付费订阅
 
 [泡泡Dog](www.paopaodog.com)
